@@ -1,0 +1,54 @@
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Main.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Login.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Properties.Resources.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.csproj.GenerateResource.cache
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.csproj.CoreCompileInputs.cache
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\DEXSTER ANTIBAN.exe.config
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\DEXSTER ANTIBAN.exe
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\DEXSTER ANTIBAN.pdb
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.csproj.CopyComplete
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.exe
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.pdb
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\Bunifu_UI_v1.52.dll
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Exit.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Start.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER.Tools.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\Siticone.UI.dll
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\DEXSTER ANTIBAN.csproj.AssemblyReference.cache
+G:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\Bunifu_UI_v1.52.dll
+G:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\Siticone.UI.dll
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.SuggestedBindingRedirects.cache
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Exit.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Main.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Login.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Properties.Resources.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Start.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Tools.resources
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.GenerateResource.cache
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.CoreCompileInputs.cache
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.CopyComplete
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.AssemblyReference.cache
+G:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.exe.config
+G:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.exe
+G:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.pdb
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN 5.6.exe
+G:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN 5.6.pdb
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\Bunifu_UI_v1.52.dll
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\Siticone.UI.dll
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.AssemblyReference.cache
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.SuggestedBindingRedirects.cache
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Exit.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Main.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Login.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Properties.Resources.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Start.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER.Tools.resources
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.GenerateResource.cache
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.CoreCompileInputs.cache
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN 5.6.exe
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN 5.6.pdb
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.exe.config
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.exe
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\DEXSTER ANTIBAN 5.6.pdb
+I:\C#\DEXSTER ANTIBAN\Xauth\obj\Debug\DEXSTER ANTIBAN.csproj.CopyComplete
+I:\C#\DEXSTER ANTIBAN\Xauth\bin\Debug\MaterialSkin.dll

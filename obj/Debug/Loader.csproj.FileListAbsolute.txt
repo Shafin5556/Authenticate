@@ -1,0 +1,11 @@
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\Loader.exe.config
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\Loader.exe
+G:\C#\DEXSTER ANTIBAN\WinformExample\bin\Debug\Loader.pdb
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\xCheto.Main.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\xCheto.Login.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.Properties.Resources.resources
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.csproj.GenerateResource.cache
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.csproj.CopyComplete
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.exe
+G:\C#\DEXSTER ANTIBAN\WinformExample\obj\Debug\Loader.pdb
